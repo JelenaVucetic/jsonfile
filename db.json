@@ -1,4 +1,31 @@
 {
+  "posts": [
+    {
+      "id": "1",
+      "title": "Chrome Extension Protects Against JavaScript-Based CPU Side-Channel Attacks",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...",
+      "image": "./images/post-2.jpg",
+      "category": "JavaScript",
+      "date": "March 27, 2018"
+    },
+    {
+        "id": "2",
+        "title": "Why Node.js Is The Coolest Kid On The Backend Development Block!",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...",
+        "image": "./images/post-3.jpg",
+        "category": "CSS",
+        "date": "March 27, 2018"
+    }
+    ,
+    {
+        "id": "3",
+        "title": "Ask HN: Does Anybody Still Use JQuery?",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...",
+        "image": "./images/post-4.jpg",
+        "category": "JQuery",
+        "date": "March 27, 2018"
+    }
+  ],
   "categories": [
     {
       "id": "1",
