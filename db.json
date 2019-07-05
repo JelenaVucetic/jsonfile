@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "post_id": "1",
+      "name": "JavaScript",
+      "date": "March 27, 2018"
+    },
+    {
+      "id": "2",
+      "post_id": "2",
+      "name": "Web Design",
+      "date": "March 27, 2018"
+    },
+    {
+      "id": "3",
+      "post_id": "3",
+      "name": "Css",
+      "date": "March 27, 2018"
+    },
+    {
+
+      "id": "4",
+      "post_id": "4",
+      "name": "Jquery",
+      "date": "March 27, 2018"
+    }
+  ],
+
+  "tags": [
+    {
+      "id": "1",
+      "post_id": "1",
+      "name": "Chrome",
+      "date": "March 27, 2018"
+    },
+    {
+      "id": "2",
+      "post_id": "1",
+      "name": "Tutorial",
+      "date": "March 27, 2018"
+    },
+    {
+      "id": "3",
+      "post_id": "2",
+      "name": "Backend",
+      "date": "March 27, 2018"
+    },
+    {
+
+      "id": "4",
+      "post_id": "2",
+      "name": "Css",
+      "date": "March 27, 2018"
+    }
+    ,
+    {
+
+      "id": "4",
+      "post_id": "3",
+      "name": "Backend",
+      "date": "March 27, 2018"
+    },
+    {
+
+      "id": "5",
+      "post_id": "3",
+      "name": "Design",
+      "date": "March 27, 2018"
+    },
+    {
+
+      "id": "6",
+      "post_id": "3",
+      "name": "Development",
+      "date": "March 27, 2018"
+    },
+    {
+
+      "id": "7",
+      "post_id": "3",
+      "name": "JQuery",
+      "date": "March 27, 2018"
+    },
+    {
+
+      "id": "8",
+      "post_id": "3",
+      "name": "JavaScript",
+      "date": "March 27, 2018"
+    },
+    {
+
+      "id": "9",
+      "post_id": "3",
+      "name": "Website",
+      "date": "March 27, 2018"
+    }
+  ]
+}
