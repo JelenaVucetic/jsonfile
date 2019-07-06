@@ -24,6 +24,14 @@
         "image": "./images/post-4.jpg",
         "category": "JQuery",
         "date": "March 27, 2018"
+    },
+    {
+        "id": "4",
+        "title": "Why Node.js Is The Coolest Kid On The Backend Development Block!",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...",
+        "image": "./images/post-3.jpg",
+        "category": "CSS",
+        "date": "March 27, 2018"
     }
   ],
   "categories": [
